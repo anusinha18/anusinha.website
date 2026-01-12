@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #ffe8a3;
+  margin: 0;
+  padding: 40px;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  gap: 20px;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.profile-img {
+  width: 140px;
+  border-radius: 12px;
+}
+
+.tag {
+  background: #ff9f9f;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+.description {
+  color: #555;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.item {
+  margin-bottom: 10px;
+}
+
+.year {
+  color: #ff7b7b;
+  font-weight: bold;
+}
+
+.skills span {
+  display: inline-block;
+  background: #ffe3e3;
+  padding: 6px 12px;
+  border-radius: 20px;
+  margin: 5px;
+  font-size: 14px;
+}
